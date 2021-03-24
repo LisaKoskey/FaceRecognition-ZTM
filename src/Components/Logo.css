@@ -1,0 +1,9 @@
+/* .Tilt{
+background: linear-gradient(89deg
+, #ff8edf 0%, #04c8de 100%)
+} */
+
+.Tilt{
+    background: linear-gradient(89deg
+    , #04c8de 0%, #ff8edf 100%)
+}
